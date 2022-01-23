@@ -1,0 +1,24 @@
+/* Write your code here. */
+.list-item-container {
+  list-style-type: none;
+  padding: 0px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.thumbnail-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px;
+}
+.thumbnail-active {
+  height: 80px;
+  width: 80px;
+  opacity: 1;
+}
+.thumbnail {
+  height: 80px;
+  width: 80px;
+  opacity: 0.5;
+}
